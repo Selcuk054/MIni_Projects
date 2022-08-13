@@ -38,6 +38,8 @@ public class OgrenciIsimleri {
         System.out.println(butunlemeNotlari);
         System.out.println("notOrtalamalari = " + notOrtalamalari);
 
+        System.out.println("Hey dunya github deneme");
+
 
 
 
