@@ -32,7 +32,7 @@ public class CarRunner {
         System.out.println("Arabanin rengi : "+ car1.kleur);
         System.out.println("Arabanin kilometresi : "+ car1.kilometer);
         car1.stop();
-
+//bu bizim ilk colobration.Allah nazarlardan saklasın
 
 
 
