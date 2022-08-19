@@ -34,6 +34,8 @@ public class CarRunner {
         car1.stop();
 //bu bizim ilk colobration.Allah nazarlardan saklasın
 // Suan  remote da yaziyorum.
+        // Bu proje cigir acacak, bizim icin kucuk insanlik icin buyk bir adim
+        // 3 ayda yazilim sektoruna bodozlama giris yaptik!!
 
 
 
